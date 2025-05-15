@@ -1,9 +1,5 @@
 # AI Resume Builder
 
-### ❤️ Support
-
-If you find this project helpful, please consider giving this repository a ⭐️ on GitHub, and don't forget to **like**, **share**, and **subscribe** to support our journey!
-
 ## 📌 Project Overview
 
 Welcome to the **AI Resume Builder** repository! This project leverages cutting-edge tools and frameworks to create a dynamic and efficient resume-building platform powered by AI. The AI Resume Builder provides a seamless experience, making resume creation straightforward and effective.
